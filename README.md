@@ -10,7 +10,6 @@ I am Vishwas Puri, a third year undergraduate at BITS Pilani, India. I enjoy sof
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
 - 👯 I’m looking to collaborate on anything cool
 - 📫 How to reach me: vishwaspuri09@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: If computer programming was a country, it would be the second most diverse with more than 700 languages.
 
 ---
