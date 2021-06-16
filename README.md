@@ -31,8 +31,8 @@ I am Vishwas Puri, a third year undergraduate at BITS Pilani, India. I enjoy sof
 <img src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png?1561644488" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50">
 
 ##  &#x1f4c8; My Github Stats:
-
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaspuri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwaspuri&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 
