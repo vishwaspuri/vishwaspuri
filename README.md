@@ -20,7 +20,7 @@ I am Vishwas Puri, a third year undergraduate at BITS Pilani, India. I enjoy sof
 
 #### Languages:
 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50">
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50">
 
 #### Databases:
 
