@@ -6,7 +6,7 @@
 [![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishwaspuri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwas-puri-abb053109/)
 
-I am Vishwas Puri, a third year undergraduate at BITS Pilani, India. I enjoy software development, primarily server-side development. 
+I am Vishwas Puri, a fourth year undergraduate at BITS Pilani, India. I enjoy software development, primarily server-side development. 
 
 - 🔭 I’m currently working on creating a [Nodemon](https://www.npmjs.com/package/nodemon) equivalent for Golang projects 
 - 🌱 I’m currently learning [Typescript](https://www.typescriptlang.org/)
