@@ -20,7 +20,7 @@ I am Vishwas Puri, currently working as a software engineer at Amazon. I enjoy s
 
 #### Languages:
 
-<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50">
+<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="" width="50" height="50"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" height="50" width="50">
 
 #### Databases:
 
@@ -28,7 +28,7 @@ I am Vishwas Puri, currently working as a software engineer at Amazon. I enjoy s
 
 #### Miscellaneous tech that I have worked with:
 
-<img src="https://s2-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/710/500/original/rasa_logo_horizontal_purple.png?1561644488" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50">
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="50" width="50"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" height="50" width="50">
 
 ##  &#x1f4c8; My Github Stats:
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwaspuri&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
